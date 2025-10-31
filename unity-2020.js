@@ -103,10 +103,6 @@ document.body.appendChild(ld);
                 for (; ; )
                     switch (n.prev = n.next) {
                     case 0:
-                        return m = document.getElementById("slideshow"),
-                        p = document.getElementById("slideshow-top"),
-                        g = document.getElementById("slideshow-nav"),
-                        w = document.getElementById("slideshow-images"),
                         p.className = "active",
                         n.prev = 5,
                         n.next = 8,
